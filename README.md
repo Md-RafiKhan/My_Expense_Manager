@@ -59,3 +59,5 @@ Alternatively use VS Code with the Live Server extension.
 3. Add category management, monthly budgets, reports and CSV/PDF export.
 4. Add Tauri Windows installer and app icons.
 5. Add automated tests and backup/export workflow.
+
+Testing Cloudflare automatic deployment
